@@ -3,9 +3,7 @@
 <h1 align="center">Hi 👋, I'm Codix</h1>
 <h3 align="center">💻 A Passionate Web Developer from India 🇮🇳</h3>
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/hi-100?label=Followers" alt="followers-count" />
-</p>
+
 
 ---
 
